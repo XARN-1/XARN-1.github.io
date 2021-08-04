@@ -1,0 +1,76 @@
+/* Navbar */
+
+.search {
+  margin-left: 60%;
+  color: black;
+}
+
+.notif {
+  color: black;
+}
+
+/* carousel */
+.d-block {
+  border-radius: 15px;
+}
+
+.carousel-indicators [data-bs-target] {
+  background-color: #9900cc !important;
+  position: relative;
+  top: 40px;
+}
+
+/* service */
+h2 {
+  padding-bottom: 5px;
+  font-size: 18px;
+}
+
+.opsi {
+  width: 100%;
+  margin: auto;
+}
+
+.img-fluid {
+  padding: 15px;
+}
+
+h5 {
+  color: #9900cc;
+  font-size: 15px;
+}
+
+h6 {
+  text-align: center;
+  float: right;
+  padding: 5%;
+  background-color: #e6e6e6;
+  width: 70%;
+  border-radius: 5px;
+  font-size: 15px;
+}
+
+p {
+  font-size: 13px !important;
+}
+
+.konsultan {
+  background-color: #e6e6e6;
+}
+
+.container-fluid {
+  background-color: white;
+}
+
+.bi-chat-left-text {
+  width: 50%;
+  color: #9900cc;
+}
+
+.card-body {
+  padding: 0px;
+}
+
+.orang {
+  padding: 2%;
+}
