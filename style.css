@@ -38,7 +38,7 @@ h2 {
 h5 {
   color: #9900cc;
   font-size: 15px;
-  line-height: 5px;
+  line-height: 20px;
 }
 
 h6 {
@@ -53,6 +53,7 @@ h6 {
 
 p {
   font-size: 13px !important;
+  line-height: 0;
 }
 
 .konsultan {
