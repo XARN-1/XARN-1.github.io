@@ -38,6 +38,7 @@ h2 {
 h5 {
   color: #9900cc;
   font-size: 15px;
+  line-height: 5px;
 }
 
 h6 {
@@ -72,5 +73,10 @@ p {
 }
 
 .orang {
-  padding: 2%;
+  padding: 4%;
+}
+
+.foto {
+  border-radius: 50%;
+  border: 2px solid #9900cc;
 }
