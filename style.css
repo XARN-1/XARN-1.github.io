@@ -9,6 +9,10 @@
   color: black;
 }
 
+.navbar {
+  background-color: white !important;
+}
+
 /* carousel */
 .carousel-inner {
   border-radius: 15px;
