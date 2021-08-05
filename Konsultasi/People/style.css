@@ -1,0 +1,70 @@
+body {
+  background-color: #f6f6f7;
+}
+
+/* Header */
+h5 {
+  display: block;
+  font-size: 15px;
+  text-align: start !important;
+  margin-bottom: 0%;
+  color: #ff00ff;
+}
+
+p {
+  display: block;
+  font-size: 15px;
+  margin-bottom: 0%;
+}
+
+.container-fluid {
+  background-color: white;
+}
+
+.col-2 {
+  padding: 0;
+}
+
+.col-6 {
+  padding-left: 2%;
+}
+
+.form-control {
+  margin-top: 1px;
+  background-color: #f6f6f7;
+  border: rgba(0, 0, 0, 0);
+  width: 100% !important;
+}
+
+h4 {
+  margin-bottom: 0;
+  background-color: #ff00ff;
+  padding: 10%;
+  display: block;
+  width: 80%;
+  text-align: center;
+  color: white;
+  margin-left: 25%;
+}
+
+.rounded-pill {
+  padding: 2%;
+}
+
+.container {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.foto {
+  border-radius: 50%;
+}
+
+/* footer */
+.card-body {
+  background-color: white;
+}
+
+i {
+  color: #ff00ff;
+}
