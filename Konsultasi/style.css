@@ -1,0 +1,110 @@
+/* Jumbotron */
+.papan {
+  position: relative;
+}
+
+.img-fluid {
+  width: 100% !important;
+  margin-top: -10%;
+}
+
+.jb {
+  position: absolute;
+  top: 0;
+  color: white;
+  left: 0;
+  right: 0;
+  width: 100%;
+  padding: 0;
+}
+
+.sj {
+  font-size: 13px;
+  text-align: center;
+  line-height: 0%;
+}
+
+.judul {
+  padding: 0 0 0 0;
+}
+
+/* sub judul */
+.s-j {
+  font-size: 12px;
+}
+
+.s-j-a {
+  font-weight: 500;
+}
+
+/* konten */
+.orang {
+  padding: 0% 0% 0% 0%;
+}
+
+.foto {
+  border-radius: 50%;
+  border: 2px solid #9900cc;
+}
+
+h5 {
+  font-size: 16px;
+}
+
+h6 {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.df {
+  font-size: 13px;
+  font-weight: 200;
+  color: #ff00ff;
+}
+
+.kf {
+  padding: 0 0 0 0;
+}
+
+a {
+  text-decoration: none !important;
+  color: white;
+}
+
+a:hover {
+  color: white;
+}
+
+.cb {
+  border-bottom: 3px solid #e6e6e6;
+}
+
+.cf {
+  text-align: center;
+  font-size: 15px;
+  padding: 5px 10px 5px 10px;
+  border-radius: 7px;
+  background-color: #ff00ff;
+  color: white;
+  font-weight: bold;
+}
+
+.cbb {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.card {
+  border-color: rgba(0, 0, 0, 0);
+  box-shadow: 0px 0px 5px black;
+  border-radius: 10px;
+}
+
+.b1,
+.b2,
+.b3,
+.b3,
+.b4,
+.b5 {
+  color: #ff00ff;
+}
