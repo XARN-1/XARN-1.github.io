@@ -139,9 +139,4 @@ section {
   padding-bottom: 1%;
   padding-right: 20%;
   position: relative;
-  background-image: linear-gradient(
-    to right,
-    rgba(0, 0, 0, 0),
-    rgba(141, 0, 154, 1)
-  );
 }
