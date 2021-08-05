@@ -86,6 +86,7 @@ a:hover {
 form {
   position: relative;
   z-index: 2;
+  min-height: 500px;
 }
 
 .form-label {
@@ -110,7 +111,7 @@ section {
   justify-content: center;
   display: flex;
   width: 100%;
-  height: 90%;
+  height: 77%;
   background-color: rgba(0, 0, 0, 0.2);
   position: absolute;
   top: 0;
