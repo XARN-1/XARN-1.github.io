@@ -1,0 +1,147 @@
+/* Jumbotron */
+.papan {
+  position: relative;
+}
+
+.img-fluid {
+  width: 100% !important;
+  margin-top: -10%;
+}
+
+.jb {
+  position: absolute;
+  top: 0;
+  color: white;
+  left: 0;
+  right: 0;
+  width: 100%;
+  padding: 0;
+}
+
+.sj {
+  font-size: 13px;
+  text-align: center;
+  line-height: 0%;
+  margin-bottom: 0;
+}
+
+.judul {
+  padding: 0 0 0 0;
+}
+
+.logo {
+  padding-left: 0;
+  padding-right: 24px;
+}
+
+a {
+  text-decoration: none !important;
+  color: white;
+}
+
+a:hover {
+  color: white;
+}
+
+/* sub judul */
+.s-j {
+  font-size: 12px;
+}
+
+.s-j-a {
+  font-weight: 500;
+}
+
+/* kriteria */
+.card-body {
+  background-color: white;
+  border-radius: 10px;
+  padding: 8%;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+  margin-bottom: 10%;
+}
+
+.kotak1.click {
+  background-color: #ff00ff;
+  color: white;
+}
+
+.kotak2.click {
+  background-color: #ff00ff;
+  color: white;
+}
+
+.kotak3.click {
+  background-color: #ff00ff;
+  color: white;
+}
+
+.kotak4.click {
+  background-color: #ff00ff;
+  color: white;
+}
+
+/* form */
+
+form {
+  position: relative;
+  z-index: 2;
+}
+
+.form-label {
+  font-size: 15px;
+  font-weight: bold;
+  margin-bottom: 3px;
+  padding: 0;
+}
+
+input {
+  background-color: #e3e3e4 !important;
+  border-radius: 0px !important;
+  border: rgba(0, 0, 0, 0) !important;
+}
+
+section {
+  position: relative;
+}
+
+.formulir::after {
+  content: "";
+  justify-content: center;
+  display: flex;
+  width: 100%;
+  height: 90%;
+  background-color: rgba(0, 0, 0, 0.2);
+  position: absolute;
+  top: 0;
+  z-index: 3;
+}
+
+.formulir.mundur::after {
+  content: "";
+  justify-content: center;
+  display: flex;
+  width: 100%;
+  height: 90%;
+  background-color: rgba(0, 0, 0, 0);
+  position: absolute;
+  top: 0;
+  z-index: 0;
+}
+
+.btn {
+  background-color: #ff00ff;
+  color: white;
+  margin: auto;
+  font-weight: 500;
+  padding-left: 20%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-right: 20%;
+  position: relative;
+  background-image: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0),
+    rgba(141, 0, 154, 1)
+  );
+}
