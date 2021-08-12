@@ -1,7 +1,6 @@
 /* Body */
 body {
   background-color: white;
-  animation: body-animasi 1s;
 }
 
 /* Jumbotron */
@@ -152,15 +151,4 @@ section {
 
 .btn:hover {
   color: white;
-}
-
-/* animasi */
-@keyframes body-animasi {
-  from {
-    transform: translate(0px, -1000px);
-  }
-
-  to {
-    transform: translate(0, 0);
-  }
 }

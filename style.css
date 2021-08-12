@@ -71,6 +71,7 @@ p {
 
 .container-fluid {
   background-color: white;
+  animation: card-body-animasi 0.7s;
 }
 
 .bi-chat-left-text {
@@ -89,4 +90,15 @@ p {
 .foto {
   border-radius: 50%;
   border: 2px solid #9900cc;
+}
+
+/* animasi */
+@keyframes card-body-animasi {
+  from {
+    transform: translate(-1000px, 0px);
+  }
+
+  to {
+    transform: translate(0, 0);
+  }
 }
