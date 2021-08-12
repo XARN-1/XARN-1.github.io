@@ -155,8 +155,8 @@ a:hover {
 }
 
 .konten {
-  transform: translate(0px, -1000px);
-  transition: 1s;
+  transform: translate(0px, -2000px);
+  transition: 1.5s;
 }
 
 .konten.aktif1 {
