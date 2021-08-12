@@ -3,7 +3,7 @@ $(window).on('load',function(){
 
         setTimeout(function(){
             $('.card').eq(i).addClass('muncul');
-        }, 200 * (i+1))
+        }, 300 * (i+1))
     })
 
 })
