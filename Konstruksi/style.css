@@ -87,6 +87,26 @@ a:hover {
   color: white;
 }
 
+.rumah {
+  height: 0px;
+  transition: ease-in-out 0.5s;
+}
+
+.rumah.aktif {
+  height: 250px;
+  transition: ease-in-out 0.5s;
+}
+
+.kantor {
+  height: 0px;
+  transition: ease-in-out 0.5s;
+}
+
+.kantor.aktif {
+  height: 250px;
+  transition: ease-in-out 0.5s;
+}
+
 /* form */
 
 form {
