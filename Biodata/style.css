@@ -1,0 +1,113 @@
+section {
+    min-height: 220px
+}
+
+/* Jumbotron */
+.papan {
+    position: relative;
+}
+
+.img-fluid {
+    width: 100% !important;
+}
+
+.jb {
+    position: absolute;
+    top: 30% !important;
+    color: white;
+    left: 0;
+    right: 0;
+    width: 100%;
+    padding: 0;
+}
+
+.sj {
+    font-size: 13px;
+    text-align: center;
+    line-height: 0%;
+    margin-bottom: 0;
+}
+
+.judul {
+    padding: 0 0 0 0;
+}
+
+.logo {
+    padding-left: 0;
+    padding-right: 24px;
+}
+
+a {
+    text-decoration: none !important;
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+
+
+h3 {
+    font-size: 20px;
+    margin-top: 5%;
+    line-height: 3vw;
+    text-align: center;
+}
+
+h4 {
+    font-size: 20px;
+    text-align: center;
+    font-weight: 300;
+}
+
+p {
+    font-size: 15px;
+    line-height: 3vw;
+    text-align: center;
+    font-weight: 100;
+    margin-bottom: 2vw;
+}
+
+.bd {
+    padding: 0;
+    position: absolute;
+    top: 25vw;
+}
+
+.b1,
+.b2,
+.b3,
+.b3,
+.b4,
+.b5 {
+    color: #ff00ff;
+}
+
+/* portpolio */
+.portpolio {
+    background-color: #E3E3E4;
+    position: relative;
+    margin-top: 50vw;
+}
+
+.card-body {
+    background-color: white;
+}
+
+.container {
+    padding: 2vw;
+
+}
+
+.col-4 {
+    padding: 2vw;
+}
+
+.sub-judul {
+    text-align: center;
+}
+
+.rd {
+    border-radius: 20px;
+}
